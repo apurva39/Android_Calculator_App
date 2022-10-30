@@ -1,6 +1,6 @@
 # apurva_calculator
 
-A new Flutter project.
+Simple Calculator App.
 
 ## Getting Started
 
