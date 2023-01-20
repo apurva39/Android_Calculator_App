@@ -1,6 +1,6 @@
 # apurva_calculator
 
-A new Flutter project.
+Simple Calculator App.
 
 ## Getting Started
 
@@ -14,3 +14,8 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+
+ screenshot--
+![calculator1](https://user-images.githubusercontent.com/88641285/198889291-2ae56efb-3ab3-408e-abf2-aab4eb7fbffb.png)
+
